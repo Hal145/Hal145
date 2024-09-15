@@ -1,9 +1,14 @@
-# About me 👋
+# About me
 
 A deep learning engineer from Türkiye</h3>
 
-- 🔭 I’m currently working on **IEF-MIL**
+I have experience with:
+- Deep Learning
+- Computer Vision
+- Machine Learning
+- Data Engineering
 
+- 🔭 I’m currently working on **IEF-MIL**
 - 🌱 I’m currently learning **Natural Language Processing and Large Language Models**
 
 <h3 align="left">Languages and Tools:</h3>
